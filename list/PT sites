@@ -1,0 +1,25 @@
+# 内容：PT sites
+# 域名关键字匹配
+# DOMAIN-KEYWORD,tracker
+# DOMAIN-KEYWORD,ipv6-tracker
+# 域名后缀匹配
+DOMAIN-SUFFIX,m-team.cc
+DOMAIN-SUFFIX,lemonhd.club
+DOMAIN-SUFFIX,ilovelemonhd.me
+DOMAIN-SUFFIX,btschool.club
+DOMAIN-SUFFIX,carpt.net
+DOMAIN-SUFFIX,flysheep6.com
+DOMAIN-SUFFIX,nicept.net
+DOMAIN-SUFFIX,pttime.org
+DOMAIN-SUFFIX,dicmusic.com
+DOMAIN-SUFFIX,1ptba.com
+DOMAIN-SUFFIX,52pt.site
+DOMAIN-SUFFIX,hdbao.cc
+DOMAIN-SUFFIX,gtk.pw
+DOMAIN-SUFFIX,hdclone.org
+DOMAIN-SUFFIX,ptfans.cc
+DOMAIN-SUFFIX,ptskit.com
+DOMAIN-SUFFIX,ptzone.xyz
+DOMAIN-SUFFIX,ptcafe.club
+DOMAIN-SUFFIX,hdclone.org
+DOMAIN-SUFFIX,gtkpw.xyz
